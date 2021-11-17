@@ -1,12 +1,12 @@
 {
-    "theme_color": "#090909",
-    "background_color": "#ffffff",
+    "theme_color": "#4535f6",
+    "background_color": "#000000",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/index.html",
-    "name": "Star Trek The Next Generation Quiz",
-    "short_name": "ST Quiz",
-    "description": "A quiz about Star Trek The Next Generation TV Show.",
+    "start_url": "index.html",
+    "name": "Equine Educational Exam",
+    "short_name": "EEE",
+    "description": "A 10 question quiz on star",
     "icons": [
         {
             "src": "icons/icon-192x192.png",
